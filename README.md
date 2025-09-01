@@ -1,0 +1,1 @@
+# vanyxas-shop1
