@@ -2,9 +2,7 @@ import React, { useMemo, useState } from "react";
 import { motion } from "framer-motion";
 import { ShoppingBag, MapPin, Instagram, Package, Bike, Search, Shirt, Glasses, Mail, Phone } from "lucide-react";
 
-// --- Data pulled from the user's provided Vinted links (prices/sizes as listed there) ---
-// Image URLs point to the public CDN versions of the listing photos.
-// Fulfilment: London only (local delivery or pickup). Contact via Instagram, Gmail, or Phone.
+
 
 const CONTACT = {
   instagram: "https://instagram.com/ivan_sokoliuk_",
