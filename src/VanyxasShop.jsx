@@ -272,8 +272,8 @@ export default function VanyxasShop() {
             <h4 className="text-sm font-bold">Delivery</h4>
             <ul className="mt-2 space-y-1 text-sm text-gray-600">
               <li>• <strong>London only</strong> (Zones 1–4)</li>
-              <li>• Pickup or local courier</li>
-              <li>• Prices shown exclude any courier fees</li>
+              <li>• Pickup r</li>
+              <li>• </li>
             </ul>
           </div>
           <div>
