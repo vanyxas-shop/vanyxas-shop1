@@ -248,11 +248,11 @@ export default function VanyxasShop() {
       <section className="mx-auto max-w-7xl px-4 pb-2 pt-8">
         <div className="grid grid-cols-1 gap-6 md:grid-cols-5">
           <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} className="order-2 space-y-4 rounded-3xl border bg-white p-6 shadow-sm md:order-1 md:col-span-3">
-            <h2 className="text-2xl font-extrabold">London-only sales • Pickup & Local Delivery</h2>
+            <h2 className="text-2xl font-extrabold">London-only sales • Pickup </h2>
             <p className="text-sm text-gray-600">We operate only within London. Choose <strong>pickup</strong> (Central/Zone 1–2). Payments handled via Instagram DM coordination or contact via Gmail / Phone.</p>
             <div className="flex flex-wrap gap-2 text-sm">
               <Pill className=""><Package className="mr-1 inline h-3 w-3"/>Pickup</Pill>
-              <Pill><Bike className="mr-1 inline h-3 w-3"/>Local courier</Pill>
+              <Pill><Bike className="mr-1 inline h-3 w-3"/>Pickup</Pill>
               <Pill><MapPin className="mr-1 inline h-3 w-3"/>London only</Pill>
             </div>
           </motion.div>
