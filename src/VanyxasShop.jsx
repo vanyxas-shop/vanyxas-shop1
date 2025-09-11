@@ -41,7 +41,7 @@ const PRODUCTS = [
     title: "Nike P-6000 Earth 'Light Bone' (Women)",
     price: 90.0,
     currency: "GBP",
-    size: "UK 10 (Women)",
+    size: "UK 10 (Men)",
     condition: "Brand New",
     colours: ["White", "Grey", "Brown"],
     category: "Footwear",
